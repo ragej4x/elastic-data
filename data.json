@@ -1,16 +1,13 @@
-[
-    {
-      "title": "Sea Grapes (Caulerpa Spp.) (Chlorophyta: Caulerpaceae) from Coron, Northern Palawan, Philippines with Notes on Their Harvest And Production",
-      "author": "Estrada, Jeremalah L., Dionisio-Sese, Maribel L.",
-      "publication_date": "2020",
-      "link": "https://www.ukdr.uplb.edu.ph/journal-articles/436/",
-      "views": 0
-    },
-    {
-      "title": "Multiplatform data interchange system for climate-smart agriculture in the Philippines",
-      "author": "Khan, Concepcion L., Mariano, Jeyneth Ann R., Constantino, Emmanuel B., Hao, Aldrin Joseph J.",
-      "publication_date": "2020",
-      "link": "https://www.ukdr.uplb.edu.ph/journal-articles/398/",
-      "views": 0
-    }
-  ]
+PUT /research-data
+
+POST _bulk
+{ "index": { "_index": "research-data" } }
+{ "Category": "Production_and_Post_production_System", "Subcategory": "Sustainable_Food_Production", "Title": "Sea Grapes (Caulerpa Spp.) from Coron", "Author": "Estrada, Jeremalah L.", "Date_of_Publication": "2020", "DOI_LINK": "https://www.ukdr.uplb.edu.ph/journal-articles/436/" }
+{ "index": { "_index": "research-data" } }
+{ "Category": "Agricultural_Innovation", "Title": "Future scenarios of fish supply", "Author": "Tran, Nhuong", "Date_of_Publication": "2023", "DOI_LINK": "https://doi.org/10.1016/j.aquaculture.2023.739288" }
+
+GET /research-data/_search?q="Sustainable_Food_Production"
+
+
+
+
