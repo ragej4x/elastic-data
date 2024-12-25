@@ -1,138 +1,3 @@
-PUT /research-data
-
-POST /research-data/_doc
-
-{ "index": { "_index": "research-data" } }
-{ "Category": "Production and Post-production System", "Subcategory": "Sustainable Food Production", "Title": "Sea Grapes (Caulerpa Spp.) (Chlorophyta: Caulerpaceae) from Coron, Northern Palawan, Philippines with Notes on Their Harvest And Production", "Author": "Estrada, Jeremalah L., Dionisio-Sese, Maribel L.", "Date_of_Publication": "2020", "DOI_LINK": "https://www.ukdr.uplb.edu.ph/journal-articles/436/" }
-POST /research-data/_doc
-
-{ "index": { "_index": "research-data" } }
-{ "Category": "Production and Post-production System", "Subcategory": "Sustainable Food Production", "Title": "Multiplatform data interchange system for climate-smart agriculture in the Philippines", "Author": "Khan, Concepcion L., Mariano, Jeyneth Ann R., Constantino, Emmanuel B., Hao, Aldrin Joseph J.", "Date_of_Publication": "2020", "DOI_LINK": "https://www.ukdr.uplb.edu.ph/journal-articles/398/" }
-POST /research-data/_doc
-
-{ "index": { "_index": "research-data" } }
-{ "Category": "Production and Post-production System", "Subcategory": "Sustainable Food Production", "Title": "Bamboo poles for engineered-bamboo products through improved clump management and Harvesting: Lessons for the Philippines", "Author": "Razal, Ramon A., Bantayan, Rosario B., Delgado, Teodulfo S., Elec, Jovito P.", "Date_of_Publication": "Oct-13", "DOI_LINK": "https://www.ukdr.uplb.edu.ph/journal-articles/5362/" }
-POST /research-data/_doc
-
-
-{ "index": { "_index": "research-data" } }
-{ "Category": "Production and Post-production System", "Subcategory": "Sustainable Food Production", "Title": "Operational policy needs for organic agriculture expansion in the Philippines: focus on vegetables", "Author": "Rola, Agnes C., Pantoja, Blanquita R., Chupungco, Agnes R., Nguyen, Miriam R., Reyes, Jaine C., Madlangbayan, Guinevere T., Umali, Macrina G., Gulaya, Susan S., Martinez, Eldy Z., Badayos, Gerdino G.", "Date_of_Publication": "2015", "DOI_LINK": "https://www.ukdr.uplb.edu.ph/jpad/vol2/iss2/5/" }
-
-POST /research-data/_doc
-
-
-{ "index": { "_index": "research-data" } }
-{ "Category": "Production and Post-production System", "Subcategory": "Sustainable Food Production", "Title": "Enhancing organic agricultural inputs sector from a policy lens: insights from rice and vegetable producing regions", "Author": "Tan, Maria Francesca O., Elazequi, Dulce D., Chupungco, Agnes R., Nguyen, Miriam R., Alvarez, Maria Christina A.", "Date_of_Publication": "2021", "DOI_LINK": "https://www.ukdr.uplb.edu.ph/cpaf_policy_brief/5/" }
-POST /research-data/_doc
-
-
-{ "index": { "_index": "research-data" } }
-{ "Category": "Production and Post-production System", "Subcategory": "Sustainable Food Production", "Title": "Voices from the field: needs of small-scale Filipino rice farmers", "Author": "Palis, F.G.", "Date_of_Publication": "Apr-15", "DOI_LINK": "https://www.ukdr.uplb.edu.ph/journal-articles/4567/" }
-POST /research-data/_doc
-
-
-{ "index": { "_index": "research-data" } }
-{ "Category": "Production and Post-production System", "Subcategory": "Sustainable Food Production", "Title": "Improvement in Self-assessed Knowledge and Changes in Farming System Practices of Climate Field School Graduates in Bicol, Philippines", "Author": "Umali, Macrina G., Olviga, Therese R., Villa, Rubelyn S., Jacobo, Eliel Severino V., Paunlagui, Merlyne M., Rola, Agnes C.", "Date_of_Publication": "2017", "DOI_LINK": "https://www.ukdr.uplb.edu.ph/journal-articles/18/" }
-POST /research-data/_doc
-
-
-{ "index": { "_index": "research-data" } }
-{ "Category": "Production and Post-production System", "Subcategory": "Sustainable Food Production", "Title": "Multidimensional approach in identifying best practices and initiatives for organic agriculture promotion in the Philippines", "Author": "De Luna, Marianne R., Matienzo, Edna Luisa A., Tenorio, Myrna A.", "Date_of_Publication": "2010", "DOI_LINK": "https://www.ukdr.uplb.edu.ph/jpad/vol5/iss1/6/" }
-POST /research-data/_doc
-
-
-{ "index": { "_index": "research-data" } }
-{ "Category": "Production and Post-production System", "Subcategory": "Sustainable Food Production", "Title": "Impact of AFMA on irrigation and irrigated agriculture", "Author": "David, Wilfredo P.", "Date_of_Publication": "2018", "DOI_LINK": "https://www.ukdr.uplb.edu.ph/journal-articles/2679/" }
-POST /research-data/_doc
-
-
-{ "index": { "_index": "research-data" } }
-{ "Category": "Production and Post-production System", "Subcategory": "Sustainable Food Production", "Title": "Biodiversity and the quest for sustainable rice production systems", "Author": "Borromeo, Teresita H.", "Date_of_Publication": "2000", "DOI_LINK": "https://www.ukdr.uplb.edu.ph/professorial_lectures/294/" }
-POST /research-data/_doc
-
-
-{ "index": { "_index": "research-data" } }
-{ "Category": "Production and Post-production System", "Subcategory": "Sustainable Food Production", "Title": "Interrelationships of sugarcane production system components: the case of", "Author": "Tindoy, Rhea May S., Lalican, Nelita M.", "Date_of_Publication": "2009", "DOI_LINK": "https://www.ukdr.uplb.edu.ph/journal-articles/4510/" }
-POST /research-data/_doc
-
-
-{ "index": { "_index": "research-data" } }
-{ "Category": "Production and Post-production System", "Subcategory": "Sustainable Food Production", "Title": "Improving Nitrogen Use Efficiency—A Key for Sustainable Rice Production Systems", "Author": "Pauline Chivenge, Sheetal Sharma, Michelle Anne Bunquin (CAFS, UPLB), Jon Hellin", "Date_of_Publication": "2021", "DOI_LINK": "https://www.frontiersin.org/articles/10.3389/fsufs.2021.737412/full" }
-POST /research-data/_doc
-
-
-{ "index": { "_index": "research-data" } }
-{ "Category": "Production and Post-production System", "Subcategory": "Sustainable Food Production", "Title": "Life cycle analysis of monocrop and multicrop in conventional and organic vegetable production systems in Tayabas, Quezon, Philippines", "Author": "A Abasolo (SESAM, UPLB) and O Zamora (CAFS, UPLB)", "Date_of_Publication": "2019", "DOI_LINK": "https://iopscience.iop.org/article/10.1088/1755-1315/230/1/012007" }
-POST /research-data/_doc
-
-{ "index": { "_index": "research-data" } }
-{ "Category": "Production and Post-production System", "Subcategory": "Sustainable Food Production", "Title": "Banana suitability and Fusarium wilt distribution in the Philippines under climate change", "Author": "Salvacion AR, Cumagun, CJR, Pangga IB, Magcale-Macandog DB, Cruz PCS, Saludes RB, Solpot TC, Aguilar EA.", "Date_of_Publication": "2019", "DOI_LINK": "DOI: 10.1007/s41324-019-00239-3" }
-POST /research-data/_doc
-
-{ "index": { "_index": "research-data" } }
-{ "Category": "Production and Post-production System", "Subcategory": "Sustainable Food Production", "Title": "Climate-agriculture-modeling and decision tool (CAMDT): a software framework for climate risk management in agriculture", "Author": "Ines, Amor V.M.", "Date_of_Publication": "2017", "DOI_LINK": "https://www.webofscience.com/wos/woscc/full-record/WOS:000406177500009" }
-POST /research-data/_doc
-
-{ "index": { "_index": "research-data" } }
-{ "Category": "Production and Post-production System", "Subcategory": "Sustainable Food Production", "Title": "Indigenous strategies of sustainable farming systems in the highlands of northern Philippines", "Author": "Magcale-Macandog, Damasa, Ocampo, Lovereal Joy M.", "Date_of_Publication": "2004", "DOI_LINK": "https://doi.org/10.1300/j064v26n02_09" }
-POST /research-data/_doc
-
-{ "index": { "_index": "research-data" } }
-{ "Category": "Production and Post-production System", "Subcategory": "Sustainable Food Production", "Title": "Public awareness and regulatory systems for food safety in the Philippines", "Author": "Perilla, Mario V.", "Date_of_Publication": "2003", "DOI_LINK": "https://www.ukdr.uplb.edu.ph/journal-articles/4193/" }
-POST /research-data/_doc
-
-{ "index": { "_index": "research-data" } }
-{ "Category": "Production and Post-production System", "Subcategory": "Sustainable Food Production", "Title": "Sustainability of modified rice-based production sytem for salt-affected areas", "Author": "Lopez M.V., Mendoza T.C., Genio, E.R.", "Date_of_Publication": "2017", "DOI_LINK": "https://www.ukdr.uplb.edu.ph/journal-articles/3034/" }
-POST /research-data/_doc
-
-{ "index": { "_index": "research-data" } }
-{ "Category": "Production and Post-production System", "Subcategory": "Sustainable Food Production", "Title": "How sustainable is bioenergy production in the Philippines? A conjoint analysis of knowledge and opinions of people with different typologies", "Author": "Magcale-Macandog, Damasa, Engay, Kathreena G., Herrera, Marla Noriza G., Nicoplor, Ozzy Boy S., Eugenio, Jemimah Mae A.", "Date_of_Publication": "2012", "DOI_LINK": "https://www.ukdr.uplb.edu.ph/journal-articles/2201/" }
-POST /research-data/_doc
-
-{ "index": { "_index": "research-data" } }
-{ "Category": "Production and Post-production System", "Subcategory": "Sustainable Food Production", "Title": "The role of bioenergy in enhancing energy, food and ecosystem sustainability based on societal perceptions and preferences in Asia", "Author": "Macale-Macandog, Damasa B., Eugenio, Jemimah Mae A., Salvacion, Arnold R., Macandog, Paula Beatrice M.", "Date_of_Publication": "2016", "DOI_LINK": "doi:10.3390/agriculture6020019" }
-POST /research-data/_doc
-
-{ "index": { "_index": "research-data" } }
-{ "Category": "Production and Post-production System", "Subcategory": "Sustainable Food Production", "Title": "Sustainable agriculture in the Philippines: Improving household food security", "Author": "Lopez M.V., Mendoza T.C., Genio, E.R.", "Date_of_Publication": "2007", "DOI_LINK": "https://doi.org/10.1300/J064v31n03_08" }
-POST /research-data/_doc
-
-{ "index": { "_index": "research-data" } }
-{ "Category": "Production and Post-production System", "Subcategory": "Sustainable Food Production", "Title": "Traditional knowledge for sustainable forest management  and provision of ecosystem services", "Author": "Camacho, Leni D.", "Date_of_Publication": "2016", "DOI_LINK": "https://doi.org/10.1080/21513732.2016.1169580" }
-POST /research-data/_doc
-
-{ "index": { "_index": "research-data" } }
-{ "Category": "Production and Post-production System", "Subcategory": "Sustainable Food Production", "Title": "Comparative analysis of siganid (Siganus guttatus) value chains from aquaculture in regions 1 and 2, Philippines", "Author": "Ramirez, Paul Joseph B.", "Date_of_Publication": "2018", "DOI_LINK": "https://www.ukdr.uplb.edu.ph/journal-articles/1045/" }
-POST /research-data/_doc
-
-{ "index": { "_index": "research-data" } }
-{ "Category": "Production and Post-production System", "Subcategory": "Sustainable Food Production", "Title": "Black pepper: the Philippines' production and post-production systems", "Author": "Anunciado, Ismael S.", "Date_of_Publication": "20/12/1995", "DOI_LINK": "https://www.ukdr.uplb.edu.ph/professorial_lectures/10/" }
-POST /research-data/_doc
-
-{ "Category": "Production and Post-production System", "Subcategory": "Sustainable Food Production", "Title": "Sugar as a Biofuel: Implications for Philippine Agriculture and Food Security", "Author": "U-Primo E. Rodriguez (CEM, UPLB), Liborio S. Cabanilla (CEM, UPLB)", "Date_of_Publication": "2008", "DOI_LINK": "https://www.ukdr.uplb.edu.ph/journal-articles/2648/" }
-POST /research-data/_doc
-
-{ "Category": "Production and Post-production System", "Subcategory": "Sustainable Food Production", "Title": "Impacts of Climate Change on West African Fisheries and its Implications on Food Production", "Author": "Robert E. Katikiro, Edison D. Macusi [UPLB]", "Date_of_Publication": "2012", "DOI_LINK": "https://www.ukdr.uplb.edu.ph/journal-articles/2216/" }
-
-
-
-
-
-{ "index": { "_index": "research-data" } }
-{ "Category": "Production and Post-production System", "Subcategory": " Agricultural Innovation", "Title": "", "Author": "", "Date_of_Publication": "", "DOI_LINK": "" }
-
-{ "index": { "_index": "research-data" } }
-{ "Category": "Production and Post-production System", "Subcategory": "Sustainable Food Production", "Title": "", "Author": "", "Date_of_Publication": "", "DOI_LINK": "" }
-
-
-GET /research-data/_search?q="Sustainable_Food_Production"
-
-
-
-
-
-
-
 POST /research-data/_doc
 {
     "Category": "Production and Post-production System",
@@ -266,45 +131,168 @@ POST /research-data/_doc
     "Category": "Production and Post-production System",
     "Subcategory": "Sustainable Food Production",
     "Title": "Improving Nitrogen Use Efficiency—A Key for Sustainable Rice Production Systems",
-    "Author": "Pauline Chivenge, Sheetal Sharma, Michelle Anne Bunquin (CAFS, UPLB), Jon Hellin",
+    "Author": ["Pauline Chivenge", "Sheetal Sharma", "Michelle Anne Bunquin (CAFS, UPLB)", "Jon Hellin"],
     "Date_of_Publication": "2021",
     "DOI_LINK": "https://www.frontiersin.org/articles/10.3389/fsufs.2021.737412/full"
 }
 
 
+POST /research-data/_doc
+{
+    "Category": "Production and Post-production System",
+    "Subcategory": "Sustainable Food Production",
+    "Title": "Life cycle analysis of monocrop and multicrop in conventional and organic vegetable production systems in Tayabas, Quezon, Philippines",
+    "Author": ["A Abasolo (SESAM, UPLB) and O Zamora (CAFS, UPLB)"],
+    "Date_of_Publication": "2019",
+    "DOI_LINK": "https://iopscience.iop.org/article/10.1088/1755-1315/230/1/012007"
+}
+
+POST /research-data/_doc
+{
+    "Category": "Production and Post-production System",
+    "Subcategory": "Sustainable Food Production",
+    "Title": "Banana suitability and Fusarium wilt distribution in the Philippines under climate change",
+    "Author": ["Salvacion AR", "Cumagun, CJR", "Pangga IB", "Magcale-Macandog DB", "Cruz PCS", "Saludes RB", "Solpot TC", "Aguilar EA."],
+    "Date_of_Publication": "2019",
+    "DOI_LINK": "DOI: 10.1007/s41324-019-00239-3"
+}
+
+POST /research-data/_doc
+{
+    "Category": "Production and Post-production System",
+    "Subcategory": "Sustainable Food Production",
+    "Title": "Climate-agriculture-modeling and decision tool (CAMDT): a software framework for climate risk management in agriculture", 
+    "Author": "Ines, Amor V.M.",
+    "Date_of_Publication": "2017", 
+    "DOI_LINK": "https://www.webofscience.com/wos/woscc/full-record/WOS:000406177500009"
+
+}
+
+POST /research-data/_doc
+{
+    "Category": "Production and Post-production System",
+    "Subcategory": "Sustainable Food Production",
+    "Title": "Indigenous strategies of sustainable farming systems in the highlands of northern Philippines",
+    "Author": ["Magcale-Macandog, Damasa", "Ocampo, Lovereal Joy M."],
+    "Date_of_Publication": "2004",
+    "DOI_LINK": "https://doi.org/10.1300/j064v26n02_09"
+}
 
 
 
+POST /research-data/_doc
+{
+    "Category": "Production and Post-production System",
+    "Subcategory": "Sustainable Food Production",
+    "Title": "Public awareness and regulatory systems for food safety in the Philippines",
+    "Author": "Perilla, Mario V.",
+    "Date_of_Publication": "2003",
+    "DOI_LINK": "https://www.ukdr.uplb.edu.ph/journal-articles/4193/"
+}
 
 
-A. Production and Post-production System			
-Sustainable Food Production			
-Title	Author	Date of Publication	DOI / LINK
-Sea Grapes (Caulerpa Spp.) (Chlorophyta: Caulerpaceae) from Coron, Northern Palawan, Philippines with Notes on Their Harvest And Production	Estrada, Jeremalah L., Dionisio-Sese, Maribel L.	2020	https://www.ukdr.uplb.edu.ph/journal-articles/436/
-Multiplatform data interchange system for climate-smart agriculture in the Philippines	Khan, Concepcion L., Mariano, Jeyneth Ann R., Constantino, Emmanuel B., Hao, Aldrin Joseph J.	2020	https://www.ukdr.uplb.edu.ph/journal-articles/398/
-Bamboo poles for engineered-bamboo products through improved clump management and Harvesting: Lessons for the Philippines	Razal, Ramon A., Bantayan, Rosario B., Delgado, Teodulfo S., Elec, Jovito P.	Oct-13	https://www.ukdr.uplb.edu.ph/journal-articles/5362/
-Operational policy needs for organic agriculture expansion in the Philippines: focus on vegetables	Rola, Agnes C., Pantoja, Blanquita R., Chupungco, Agnes R., Nguyen, Miriam R., Reyes, Jaine C., Madlangbayan, Guinevere T., Umali, Macrina G., Gulaya, Susan S., Martinez, Eldy Z., Badayos, Gerdino G.	2015	https://www.ukdr.uplb.edu.ph/jpad/vol2/iss2/5/
-Enhancing organic agricultural inputs sector from a policy lens: insights from rice and vegetable producing regions	Tan, Maria Francesca O., Elazequi, Dulce D., Chupungco, Agnes R., Nguyen, Miriam R., Alvarez, Maria Christina A.	2021	https://www.ukdr.uplb.edu.ph/cpaf_policy_brief/5/
-Voices from the field: needs of small-scale Filipino rice farmers	Palis, F.G.	Apr-15	https://www.ukdr.uplb.edu.ph/journal-articles/4567/
-Improvement in Self-assessed Knowledge and Changes in Farming System Practices of Climate Field School Graduates in Bicol, Philippines	Umali, Macrina G., Olviga, Therese R., Villa, Rubelyn S., Jacobo, Eliel Severino V., Paunlagui, Merlyne M., Rola, Agnes C.	2017	https://www.ukdr.uplb.edu.ph/journal-articles/18/
-Multidimensional approach in identifying best practices and initiatives for organic agriculture promotion in the Philippines	De Luna, Marianne R., Matienzo, Edna Luisa A., Tenorio, Myrna A.	2010	https://www.ukdr.uplb.edu.ph/jpad/vol5/iss1/6/
-Impact of AFMA on irrigation and irrigated agriculture	David, Wilfredo P.	2018	https://www.ukdr.uplb.edu.ph/journal-articles/2679/
-Biodiversity and the quest for sustainable rice production systems	Borromeo, Teresita H.	2000	https://www.ukdr.uplb.edu.ph/professorial_lectures/294/
-Interrelationships of sugarcane production system components: the case of	Tindoy, Rhea May S., Lalican, Nelita M.	2009	https://www.ukdr.uplb.edu.ph/journal-articles/4510/
-Improving Nitrogen Use Efficiency—A Key for Sustainable Rice Production Systems	Pauline Chivenge, Sheetal Sharma, Michelle Anne Bunquin (CAFS, UPLB), Jon Hellin	2021	https://www.frontiersin.org/articles/10.3389/fsufs.2021.737412/full
-Life cycle analysis of monocrop and multicrop in conventional and organic vegetable production systems in Tayabas, Quezon, Philippines	A Abasolo (SESAM, UPLB) and O Zamora (CAFS, UPLB)	2019	https://iopscience.iop.org/article/10.1088/1755-1315/230/1/012007
-Banana suitability and Fusarium wilt distribution in the Philippines under climate change	Salvacion AR, Cumagun, CJR, Pangga IB, Magcale-Macandog DB, Cruz PCS, Saludes RB, Solpot TC, Aguilar EA.	2019	DOI: 10.1007/s41324-019-00239-3
-Climate-agriculture-modeling and decision tool (CAMDT): a software framework for climate risk management in agriculture	Ines, Amor V.M.	2017	https://www.webofscience.com/wos/woscc/full-record/WOS:000406177500009
-Indigenous strategies of sustainable farming systems in the highlands of northern Philippines	Magcale-Macandog, Damasa, Ocampo, Lovereal Joy M.	2004	https://doi.org/10.1300/j064v26n02_09
-Public awareness and regulatory systems for food safety in the Philippines	Perilla, Mario V.	2003	https://www.ukdr.uplb.edu.ph/journal-articles/4193/
-Sustainability of modified rice-based production sytem for salt-affected areas	Lopez M.V., Mendoza T.C., Genio, E.R.	2017	https://www.ukdr.uplb.edu.ph/journal-articles/3034/
-How sustainable is bioenergy production in the Philippines? A conjoint analysis of knowledge and opinions of people with different typologies	Magcale-Macandog, Damasa, Engay, Kathreena G., Herrera, Marla Noriza G., Nicoplor, Ozzy Boy S., Eugenio, Jemimah Mae A.	2012	https://www.ukdr.uplb.edu.ph/journal-articles/2201/
-The role of bioenergy in enhancing energy, food and ecosystem sustainability based on societal perceptions and preferences in Asia	Macale-Macandog, Damasa B., Eugenio, Jemimah Mae A., Salvacion, Arnold R., Macandog, Paula Beatrice M.	2016	doi:10.3390/agriculture6020019
-Sustainable agriculture in the Philippines: Improving household food security	Lopez M.V., Mendoza T.C., Genio, E.R.	2007	https://doi.org/10.1300/J064v31n03_08
-Traditional knowledge for sustainable forest management  and provision of ecosystem services	Camacho, Leni D.	2016	https://doi.org/10.1080/21513732.2016.1169580
-Comparative analysis of siganid (Siganus guttatus) value chains from aquaculture in regions 1 and 2, Philippines	Ramirez, Paul Joseph B.	2018	https://www.ukdr.uplb.edu.ph/journal-articles/1045/
-Black pepper: the Philippines' production and post-production systems	Anunciado, Ismael S.	20/12/1995	https://www.ukdr.uplb.edu.ph/professorial_lectures/10/
-Sugar as a Biofuel: Implications for Philippine Agriculture and Food Security	"U-Primo E. Rodriguez (CEM, UPLB),
-Liborio S. Cabanilla (CEM, UPLB)"	2008	https://www.ukdr.uplb.edu.ph/journal-articles/2648/
-Impacts of Climate Change on West African Fisheries and its Implications on Food Production	Robert E. Katikiro, Edison D. Macusi [UPLB]	2012	https://www.ukdr.uplb.edu.ph/journal-articles/2216/
+POST /research-data/_doc
+{ 
+    "Category": "Production and Post-production System", 
+    "Subcategory": "Sustainable Food Production", 
+    "Title": "Sustainability of modified rice-based production sytem for salt-affected areas", 
+    "Author": ["Lopez M.V.,","Mendoza T.C.","Genio, E.R."], 
+    "Date_of_Publication": "2017", 
+    "DOI_LINK": "https://www.ukdr.uplb.edu.ph/journal-articles/3034/"
+}
 
+
+POST /research-data/_doc
+
+{ 
+    "Category": "Production and Post-production System", 
+    "Subcategory": "Sustainable Food Production", 
+    "Title": "How sustainable is bioenergy production in the Philippines? A conjoint analysis of knowledge and opinions of people with different typologies", 
+    "Author": ["Magcale-Macandog, Damasa", "Engay, Kathreena G.", "Herrera, Marla Noriza G.", "Nicoplor, Ozzy Boy S.", "Eugenio, Jemimah Mae A."], 
+    "Date_of_Publication": "2012", 
+    "DOI_LINK": "https://www.ukdr.uplb.edu.ph/journal-articles/2201/" 
+}
+
+POST /research-data/_doc
+
+{ 
+    "Category": "Production and Post-production System", 
+    "Subcategory": "Sustainable Food Production", 
+    "Title": "The role of bioenergy in enhancing energy, food and ecosystem sustainability based on societal perceptions and preferences in Asia", 
+    "Author": [
+        "Macale-Macandog, Damasa B.", 
+        "Eugenio, Jemimah Mae A.", 
+        "Salvacion, Arnold R.", 
+        "Macandog, Paula Beatrice M."
+    ], 
+    "Date_of_Publication": "2016", 
+    "DOI_LINK": "doi:10.3390/agriculture6020019" 
+}
+
+
+POST /research-data/_doc
+
+{ 
+    "Category": "Production and Post-production System", 
+    "Subcategory": "Sustainable Food Production", 
+    "Title": "Sustainable agriculture in the Philippines: Improving household food security", 
+    "Author": ["Lopez M.V.", "Mendoza T.C.", "Genio, E.R."], 
+    "Date_of_Publication": "2007", 
+    "DOI_LINK": "https://doi.org/10.1300/J064v31n03_08" 
+}
+
+
+POST /research-data/_doc
+
+{ 
+    "Category": "Production and Post-production System", 
+    "Subcategory": "Sustainable Food Production", 
+    "Title": "Traditional knowledge for sustainable forest management  and provision of ecosystem services", 
+    "Author": "Camacho, Leni D.", 
+    "Date_of_Publication": "2016", 
+    "DOI_LINK": "https://doi.org/10.1080/21513732.2016.1169580" 
+}
+
+
+POST /research-data/_doc
+
+{ 
+    "Category": "Production and Post-production System", 
+    "Subcategory": "Sustainable Food Production", 
+    "Title": "Comparative analysis of siganid (Siganus guttatus) value chains from aquaculture in regions 1 and 2, Philippines", 
+    "Author": "Ramirez, Paul Joseph B.", 
+    "Date_of_Publication": "2018", 
+    "DOI_LINK": "https://www.ukdr.uplb.edu.ph/journal-articles/1045/" 
+}
+
+POST /research-data/_doc
+
+{ 
+    "Category": "Production and Post-production System", 
+    "Subcategory": "Sustainable Food Production", 
+    "Title": "Black pepper: the Philippines' production and post-production systems", 
+    "Author": "Anunciado, Ismael S.", 
+    "Date_of_Publication": "20/12/1995", 
+    "DOI_LINK": "https://www.ukdr.uplb.edu.ph/professorial_lectures/10/" 
+}
+
+POST /research-data/_doc
+{ 
+    "Category": "Production and Post-production System", 
+    "Subcategory": "Sustainable Food Production", 
+    "Title": "Sugar as a Biofuel: Implications for Philippine Agriculture and Food Security", 
+    "Author": ["U-Primo E. Rodriguez (CEM, UPLB)", "Liborio S. Cabanilla (CEM, UPLB)"], 
+    "Date_of_Publication": "2008", 
+    "DOI_LINK": "https://www.ukdr.uplb.edu.ph/journal-articles/2648/" 
+}
+
+POST /research-data/_doc
+
+{ 
+    "Category": "Production and Post-production System", 
+    "Subcategory": "Sustainable Food Production", 
+    "Title": "Impacts of Climate Change on West African Fisheries and its Implications on Food Production", 
+    "Author": ["Robert E. Katikiro", "Edison D. Macusi [UPLB]"], 
+    "Date_of_Publication": "2012", 
+    "DOI_LINK": "https://www.ukdr.uplb.edu.ph/journal-articles/2216/" 
+}
