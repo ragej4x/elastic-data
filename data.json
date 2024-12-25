@@ -203,78 +203,83 @@ POST /research-data/_doc
 
 
 POST /research-data/_doc
-
-{ 
-    "Category": "Production and Post-production System", 
-    "Subcategory": "Sustainable Food Production", 
-    "Title": "How sustainable is bioenergy production in the Philippines? A conjoint analysis of knowledge and opinions of people with different typologies", 
-    "Author": ["Magcale-Macandog, Damasa", "Engay, Kathreena G.", "Herrera, Marla Noriza G.", "Nicoplor, Ozzy Boy S.", "Eugenio, Jemimah Mae A."], 
-    "Date_of_Publication": "2012", 
-    "DOI_LINK": "https://www.ukdr.uplb.edu.ph/journal-articles/2201/" 
-}
-
-POST /research-data/_doc
-
-{ 
-    "Category": "Production and Post-production System", 
-    "Subcategory": "Sustainable Food Production", 
-    "Title": "The role of bioenergy in enhancing energy, food and ecosystem sustainability based on societal perceptions and preferences in Asia", 
+{
+    "Category": "Production and Post-production System",
+    "Subcategory": "Sustainable Food Production",
+    "Title": "How sustainable is bioenergy production in the Philippines? A conjoint analysis of knowledge and opinions of people with different typologies",
     "Author": [
-        "Macale-Macandog, Damasa B.", 
-        "Eugenio, Jemimah Mae A.", 
-        "Salvacion, Arnold R.", 
+        "Magcale-Macandog, Damasa",
+        "Engay, Kathreena G.",
+        "Herrera, Marla Noriza G.",
+        "Nicoplor, Ozzy Boy S.",
+        "Eugenio, Jemimah Mae A."
+    ],
+    "Date_of_Publication": "2012",
+    "DOI_LINK": "https://www.ukdr.uplb.edu.ph/journal-articles/2201/"
+}
+
+POST /research-data/_doc
+{
+    "Category": "Production and Post-production System",
+    "Subcategory": "Sustainable Food Production",
+    "Title": "The role of bioenergy in enhancing energy, food and ecosystem sustainability based on societal perceptions and preferences in Asia",
+    "Author": [
+        "Macale-Macandog, Damasa B.",
+        "Eugenio, Jemimah Mae A.",
+        "Salvacion, Arnold R.",
         "Macandog, Paula Beatrice M."
-    ], 
-    "Date_of_Publication": "2016", 
-    "DOI_LINK": "doi:10.3390/agriculture6020019" 
+    ],
+    "Date_of_Publication": "2016",
+    "DOI_LINK": "doi:10.3390/agriculture6020019"
+}
+
+
+
+POST /research-data/_doc
+{
+    "Category": "Production and Post-production System",
+    "Subcategory": "Sustainable Food Production",
+    "Title": "Sustainable agriculture in the Philippines: Improving household food security",
+    "Author": ["Lopez M.V.", "Mendoza T.C.", "Genio, E.R."],
+    "Date_of_Publication": "2007",
+    "DOI_LINK": "https://doi.org/10.1300/J064v31n03_08"
+}
+
+
+
+POST /research-data/_doc
+{
+    "Category": "Production and Post-production System",
+    "Subcategory": "Sustainable Food Production",
+    "Title": "Traditional knowledge for sustainable forest management and provision of ecosystem services",
+    "Author": "Camacho, Leni D.",
+    "Date_of_Publication": "2016",
+    "DOI_LINK": "https://doi.org/10.1080/21513732.2016.1169580"
+}
+
+
+
+POST /research-data/_doc
+{
+    "Category": "Production and Post-production System",
+    "Subcategory": "Sustainable Food Production",
+    "Title": "Comparative analysis of siganid (Siganus guttatus) value chains from aquaculture in regions 1 and 2, Philippines",
+    "Author": "Ramirez, Paul Joseph B.",
+    "Date_of_Publication": "2018",
+    "DOI_LINK": "https://www.ukdr.uplb.edu.ph/journal-articles/1045/"
 }
 
 
 POST /research-data/_doc
-
-{ 
-    "Category": "Production and Post-production System", 
-    "Subcategory": "Sustainable Food Production", 
-    "Title": "Sustainable agriculture in the Philippines: Improving household food security", 
-    "Author": ["Lopez M.V.", "Mendoza T.C.", "Genio, E.R."], 
-    "Date_of_Publication": "2007", 
-    "DOI_LINK": "https://doi.org/10.1300/J064v31n03_08" 
+{
+    "Category": "Production and Post-production System",
+    "Subcategory": "Sustainable Food Production",
+    "Title": "Black pepper: the Philippines' production and post-production systems",
+    "Author": "Anunciado, Ismael S.",
+    "Date_of_Publication": "20/12/1995",
+    "DOI_LINK": "https://www.ukdr.uplb.edu.ph/professorial_lectures/10/"
 }
 
-
-POST /research-data/_doc
-
-{ 
-    "Category": "Production and Post-production System", 
-    "Subcategory": "Sustainable Food Production", 
-    "Title": "Traditional knowledge for sustainable forest management  and provision of ecosystem services", 
-    "Author": "Camacho, Leni D.", 
-    "Date_of_Publication": "2016", 
-    "DOI_LINK": "https://doi.org/10.1080/21513732.2016.1169580" 
-}
-
-
-POST /research-data/_doc
-
-{ 
-    "Category": "Production and Post-production System", 
-    "Subcategory": "Sustainable Food Production", 
-    "Title": "Comparative analysis of siganid (Siganus guttatus) value chains from aquaculture in regions 1 and 2, Philippines", 
-    "Author": "Ramirez, Paul Joseph B.", 
-    "Date_of_Publication": "2018", 
-    "DOI_LINK": "https://www.ukdr.uplb.edu.ph/journal-articles/1045/" 
-}
-
-POST /research-data/_doc
-
-{ 
-    "Category": "Production and Post-production System", 
-    "Subcategory": "Sustainable Food Production", 
-    "Title": "Black pepper: the Philippines' production and post-production systems", 
-    "Author": "Anunciado, Ismael S.", 
-    "Date_of_Publication": "20/12/1995", 
-    "DOI_LINK": "https://www.ukdr.uplb.edu.ph/professorial_lectures/10/" 
-}
 
 POST /research-data/_doc
 { 
@@ -287,12 +292,11 @@ POST /research-data/_doc
 }
 
 POST /research-data/_doc
-
-{ 
-    "Category": "Production and Post-production System", 
-    "Subcategory": "Sustainable Food Production", 
-    "Title": "Impacts of Climate Change on West African Fisheries and its Implications on Food Production", 
-    "Author": ["Robert E. Katikiro", "Edison D. Macusi [UPLB]"], 
-    "Date_of_Publication": "2012", 
-    "DOI_LINK": "https://www.ukdr.uplb.edu.ph/journal-articles/2216/" 
+{
+    "Category": "Production and Post-production System",
+    "Subcategory": "Sustainable Food Production",
+    "Title": "Impacts of Climate Change on West African Fisheries and its Implications on Food Production",
+    "Author": ["Robert E. Katikiro", "Edison D. Macusi [UPLB]"],
+    "Date_of_Publication": "2012",
+    "DOI_LINK": "https://www.ukdr.uplb.edu.ph/journal-articles/2216/"
 }
