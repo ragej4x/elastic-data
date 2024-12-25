@@ -300,3 +300,5 @@ POST /research-data/_doc
     "Date_of_Publication": "2012",
     "DOI_LINK": "https://www.ukdr.uplb.edu.ph/journal-articles/2216/"
 }
+
+GET /research-data/_search?q="Sustainable_Food_Production"
